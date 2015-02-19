@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+#container{
+	margin: 0 auto;
+	width: 960px;
+	border: 1px solid black;
+	border-radius: 18px;
+	padding: 28px; 
+	background-color: pink;
+}
